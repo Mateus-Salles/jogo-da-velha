@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/03/14 19:25:19.000.208,=C:\Users\mateu\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/14 19:33:05.000.458,C:\Users\mateu\Documents\Embarcadero\Studio\Projects\Laços_de_repetição\U_ex016.pas=C:\Users\mateu\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/14 19:33:05.000.458,C:\Users\mateu\Documents\Embarcadero\Studio\Projects\Laços_de_repetição\U_ex016.dfm=C:\Users\mateu\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/03/14 19:33:20.000.504,C:\Users\mateu\Documents\Embarcadero\Studio\Projects\Laços_de_repetição\Exercicio016.dproj=C:\Users\mateu\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/03/18 22:27:52.851,C:\Users\mateu\Documents\meuprojeto\estudos\Python\jogo_da_velha\Delphi\U_jogodavelha.dfm=C:\Users\mateu\Documents\Embarcadero\Studio\Projects\Laços_de_repetição\ex016\U_ex016.dfm</Transaction>
+    <Transaction>2023/03/18 22:27:52.851,C:\Users\mateu\Documents\meuprojeto\estudos\Python\jogo_da_velha\Delphi\U_jogodavelha.pas=C:\Users\mateu\Documents\Embarcadero\Studio\Projects\Laços_de_repetição\ex016\U_ex016.pas</Transaction>
+    <Transaction>2023/03/18 22:28:17.347,C:\Users\mateu\Documents\meuprojeto\estudos\Python\jogo_da_velha\Delphi\JogoDaVelha.dproj=C:\Users\mateu\Documents\Embarcadero\Studio\Projects\Laços_de_repetição\ex016\Exercicio016.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
